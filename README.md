@@ -28,7 +28,7 @@ Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou and Chengqi Zhang
 wget "https://bit.ly/2U3Mde2"
 ```
 
-+ Datasets for pre-training the task selector and the action validator are provided at [this link](), other datasets could be downloaded at:
++ Datasets for pre-training the task selector and the action validator are provided at [this link](https://drive.google.com/file/d/11jZoLvT59d6krnGV7LkNab4xSCucKXs8/view?usp=sharing), other datasets could be downloaded at:
 
 ```
 # AP
@@ -46,7 +46,7 @@ wget https://aka.ms/twkg/rl.0.2.zip
 + Action prediction (providing initialization for the encoders):
 
 ```
-python train_ap.py config/config_pretrainAL.yaml
+python train_ap.py config/config_pretrainAP.yaml
 ```
 
 + Task selector (pre-training phase):
