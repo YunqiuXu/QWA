@@ -1,6 +1,6 @@
 # QWA
 
-Code for paper [Perceiving the World: Question-guided Reinforcement Learning for Text-based Games]()
+Code for paper [Perceiving the World: Question-guided Reinforcement Learning for Text-based Games](https://arxiv.org/abs/2204.09597)
 
 Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou and Chengqi Zhang
 
@@ -75,7 +75,12 @@ python train_rl_hard.py config/config_trainRL_hard.yaml
 ## Citation
 
 ```
-Add bib
+@article{xu2022qwa,
+  title={Perceiving the World: Question-guided Reinforcement Learning for Text-based Games},
+  author={Xu, Yunqiu and Fang, Meng and Chen, Ling and Du, Yali and Zhou, Joey Tianyi and Zhang, Chengqi},
+  journal={arXiv preprint arXiv:2204.09597},
+  year={2022}
+}
 ```
 
 -----
