@@ -75,11 +75,22 @@ python train_rl_hard.py config/config_trainRL_hard.yaml
 ## Citation
 
 ```
-@article{xu2022qwa,
-  title={Perceiving the World: Question-guided Reinforcement Learning for Text-based Games},
-  author={Xu, Yunqiu and Fang, Meng and Chen, Ling and Du, Yali and Zhou, Joey Tianyi and Zhang, Chengqi},
-  journal={arXiv preprint arXiv:2204.09597},
-  year={2022}
+@inproceedings{xu-etal-2022-perceiving,
+    title = "Perceiving the World: Question-guided Reinforcement Learning for Text-based Games",
+    author = "Xu, Yunqiu  and
+      Fang, Meng  and
+      Chen, Ling  and
+      Du, Yali  and
+      Zhou, Joey  and
+      Zhang, Chengqi",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.41",
+    doi = "10.18653/v1/2022.acl-long.41",
+    pages = "538--560"
 }
 ```
 
